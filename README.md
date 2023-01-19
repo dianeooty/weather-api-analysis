@@ -3,6 +3,7 @@
 API, and Json to analyze what the weather is like as we approach the equator and finding the hotels within my ideal 
 temperatures for vacations. 
 
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -30,8 +31,9 @@ cloudiness and wind speed. After parsing the data from the API request, I create
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+![Image1](https://user-images.githubusercontent.com/117790100/213530746-4c0f31bd-38bc-49e2-b169-a0c403b9983c.png)
+![Image2](https://user-images.githubusercontent.com/117790100/213530883-0c23384d-329c-45f7-8aeb-96f522149e9c.png)
+![Image3](https://user-images.githubusercontent.com/117790100/213530932-fa54d9dc-c09f-4fc6-8675-581e319b2b01.png)
 
 
 ## Setup
