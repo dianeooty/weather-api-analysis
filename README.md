@@ -15,10 +15,10 @@ temperatures for vacations.
 
 
 ## General Information
-- FOr the WeatherPy analysis, I am using the latitudes for a list of cities to analyze the temperature, humidity, 
+- For the WeatherPy analysis, I am using the latitudes for a list of cities to analyze the temperature, humidity, 
 cloudiness and wind speed. After parsing the data from the API request, I created dataframes for plotting scatter plots and regression for analysis.
 
-- For the VacationPy analyis, I am using the latitudes and longitudes for a list of cities to display hvplots of city and hotel locations on a map. 
+- For the VacationPy analysis, I am using the latitudes and longitudes for a list of cities to display hvplots of city and hotel locations on a map. 
 
 
 ## Technologies Used
