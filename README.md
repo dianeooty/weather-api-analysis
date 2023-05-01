@@ -1,7 +1,5 @@
-# python-api-challenge
-> This my Module 6 challenge for my Data Analytics and Visualization Boot Camp.  I was tasked with using Python requests,
-API, and Json to analyze what the weather is like as we approach the equator and finding the hotels within my ideal 
-weather conditions for vacation. 
+# ather-api-analysis
+> Using the weather and vacation datasets, I was tasked with using Python requests, API, and Json to analyze what the weather is like as we approach the equator and finding the hotels within my ideal weather conditions for vacation. 
 
 
 ## Table of Contents
@@ -15,10 +13,10 @@ weather conditions for vacation.
 
 
 ## General Information
-- For the WeatherPy analysis, I am using the longitudes and latitudes for a random list of cities within a specific range to analyze the temperature, humidity, 
+- For the WeatherPy analysis, I am using the longitudes and latitudes of a random list of cities within a specific range to analyze the temperature, humidity, 
 cloudiness and wind speed. After parsing the data from the API request, I created dataframes for plotting scatter plots and regression for analysis.
 
-- For the VacationPy analysis, I am using the latitudes and longitudes for a list of cities from a csv to display hvplots of cities and hotel locations on maps. 
+- For the VacationPy analysis, I am using the latitudes and longitudes of a list of cities from a csv to display hvplots of cities and hotel locations on maps. 
 
 
 ## Technologies Used
@@ -45,7 +43,7 @@ Project is complete and no longer being worked on.
 
 
 ## Acknowledgements
-- Many thanks to my instructional staff, TAs and tutor, David Chao.
+- Many thanks to my instructional team and David Chao.
 
 
 ## Contact
